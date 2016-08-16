@@ -1,0 +1,2 @@
+/home/shan/desktop/tt/demo.git/trunk/cmake/t3/lib_hello/CMakeFiles/hello_shared.dir
+/home/shan/desktop/tt/demo.git/trunk/cmake/t3/lib_hello/CMakeFiles/hello_static.dir

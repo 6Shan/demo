@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/t6.dir/main.cpp.o  -o ../bin/t6 -rdynamic -L/home/shan/desktop/tt/demo.git/trunk/cmake/t3/lib -lhello -Wl,-rpath,/home/shan/desktop/tt/demo.git/trunk/cmake/t3/lib 

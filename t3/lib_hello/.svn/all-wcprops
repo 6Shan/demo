@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/carl-wang-cn/demo.git/!svn/ver/34/trunk/cmake/t3/lib_hello
+END
+hello.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/carl-wang-cn/demo.git/!svn/ver/18/trunk/cmake/t3/lib_hello/hello.cpp
+END
+hello.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/carl-wang-cn/demo.git/!svn/ver/18/trunk/cmake/t3/lib_hello/hello.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/carl-wang-cn/demo.git/!svn/ver/34/trunk/cmake/t3/lib_hello/CMakeLists.txt
+END
